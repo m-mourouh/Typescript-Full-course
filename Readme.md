@@ -1,5 +1,5 @@
 ### Install node.js 
-[node.js](https://nodejs.org/en/download) 
+[Download Node.js](https://nodejs.org/en/download) 
 
 ### Install typescript globally
 `npm install -g typescript` 
